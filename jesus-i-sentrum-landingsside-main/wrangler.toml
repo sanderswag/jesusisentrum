@@ -1,0 +1,6 @@
+name = "jesus-i-sentrum-landing"
+compatibility_date = "2025-04-25"
+main = "./index.html"
+
+[site]
+bucket = "."
